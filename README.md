@@ -207,4 +207,4 @@ Password Safe is offered as a full free version. All features are included, and 
 Don’t wait! Start protecting your passwords today with **Password Safe**—download now for free!
 
 ---
-**Last updated:** 2026-10-24 22:51:07 UTC
+**Last updated:** 2026-10-25 00:46:13 UTC
